@@ -2,3 +2,8 @@ correct
 battery
 horse
 staple
+captain
+bang
+ding
+ow
+
